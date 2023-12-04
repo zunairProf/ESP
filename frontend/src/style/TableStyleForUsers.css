@@ -1,0 +1,12 @@
+.table-style {
+    background-color: #0F172B;
+    padding: 230px;
+    margin: 200px;
+
+}
+
+.custom-heading {
+    background-color: red;
+    color: #ff0000; /* Change this to the color you want */
+    /* Add any other styles you want for the heading */
+}

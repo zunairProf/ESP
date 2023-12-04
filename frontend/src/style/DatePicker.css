@@ -1,0 +1,12 @@
+.custom-date-input {
+    padding: 10px 12px;
+}
+
+.custom-date-input:hover {
+    box-shadow: rgba(99, 99, 99, 0.2) 0px 2px 8px 0px;
+}
+
+.custom-date-input:focus, .custom-date-input:checked {
+    outline: none;
+    /*border: 1px solid orange;*/
+}

@@ -1,0 +1,45 @@
+.navbar {
+    background: #0F172B;
+}
+
+* {
+    padding: 0;
+    margin: 0;
+}
+
+.navbar {
+    text-align: center;
+}
+
+#NavBarMenu, #NavBarMenu2 {
+    padding: 8px;
+    border: none;
+    box-shadow: rgba(100, 100, 111, 0.2) 0px 7px 29px 0px;
+}
+
+#drop-down:hover,
+#drop-down1:hover,
+#drop-down2:hover,
+#drop-down3:hover,
+#drop-down4:hover,
+#drop-down5:hover,
+#drop-down6:hover,
+#drop-down7:hover,
+#drop-down8:hover{
+    color: #6a67ce;
+}
+
+.drop-down:focus, #setting:focus {
+    background-color: #6a67ce;
+    color: white;
+}
+
+#signout:hover {
+    color: red;
+    background-color: #efd2cf;
+}
+
+#setting:focus {
+    color: red;
+    background-color: #efd2cf;
+}

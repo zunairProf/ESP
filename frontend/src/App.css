@@ -1,0 +1,15 @@
+.App {
+    text-align: center;
+    /*background-color: #d2e6fc;*/
+
+}
+
+@media only screen and (min-width: 868px) {
+    .hamburger-icon {
+        display: none;
+    }
+}
+
+.hamburger-icon {
+    color: white;
+}

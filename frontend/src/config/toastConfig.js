@@ -1,0 +1,1 @@
+export const ToastConfig = {autoClose: 3000, position: 'top-center'};
