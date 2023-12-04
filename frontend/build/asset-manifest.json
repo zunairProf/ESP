@@ -1,0 +1,19 @@
+{
+  "files": {
+    "main.css": "/static/css/main.2a068eeb.css",
+    "main.js": "/static/js/main.1e8fffc4.js",
+    "static/js/787.24d0b948.chunk.js": "/static/js/787.24d0b948.chunk.js",
+    "static/media/carousel-1.jpg": "/static/media/carousel-1.580323fd42819ddb11d9.jpg",
+    "static/media/carousel-2.jpg": "/static/media/carousel-2.e67221a5c43968e9ef5d.jpg",
+    "static/media/Jazz-cash.jpg": "/static/media/Jazz-cash.f37721fd813989b25626.jpg",
+    "static/media/logo.png": "/static/media/logo.d69034529ed9ce9f8bca.png",
+    "index.html": "/index.html",
+    "main.2a068eeb.css.map": "/static/css/main.2a068eeb.css.map",
+    "main.1e8fffc4.js.map": "/static/js/main.1e8fffc4.js.map",
+    "787.24d0b948.chunk.js.map": "/static/js/787.24d0b948.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.2a068eeb.css",
+    "static/js/main.1e8fffc4.js"
+  ]
+}
