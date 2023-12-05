@@ -417,7 +417,7 @@ router.post(END_POINT.CALCULATE_ROOM_RATE, verifyToken, async (req, res) => {
         response.number_of_days = numberOfDays;
         response.rent = originalAmount;
         response.discount = discountPercentage;
-        response.amount_after_discount = amountAfterDiscount;
+        response.amount_after_discount = originalAmount;
 
 
         res.status(200).json({status: true, data: response});
